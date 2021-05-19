@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">  
+<head>    <meta charset="utf-8" >    
+<title>My biodata</title>  
+</head>  
+<body> 
+<div style="background-color:black;margin:10px; text-align:center" >   
+<img src="si-nopal.jpg" alt="" margin:100 width:"95px" height="95px">  
+<h1 style="color:white;">Hello ,I am Muhammad Naim</h1> 
+<div style="color:white">   
+<br><p><strong>Malaysia,Kedah</<strong></p>
+<p><strong>22 years old<strong></p> 
+<p>Thank you for teaching me</p>  
+</div>
+</div>
+</body>
+</html>
